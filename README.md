@@ -29,6 +29,8 @@
   - Led the change requests with detailed runbook.
   - Used Dynamics 365 Custom WebAPI with Visual Studio to created REST web services for web and mobile apps; generated the client files with Swagger Editor.
 
+- Data Business: Big Data, ETL, ELT, Data Modeling, Data Integration, Data Migration, Data Analytics; NoSQL, MongoDB; Oracle, DB2, MS SQL, PostgreSQL, MySQL; PL/SQL, TSQL
+
 ## My Informatica certifcates
 
 - Informatica MDM Developer
