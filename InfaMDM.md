@@ -144,6 +144,13 @@
   - [9. **Error Handling and Notifications**](#9-error-handling-and-notifications)
   - [Example Use Case](#example-use-case)
   - [Conclusion](#conclusion-4)
+- [I've attached my CV for a role Informatica MDM Lead. I will have an interview soon. What should I do?](#ive-attached-my-cv-for-a-role-informatica-mdm-lead-i-will-have-an-interview-soon-what-should-i-do)
+    - [1. **Review Key Job Responsibilities**](#1-review-key-job-responsibilities)
+    - [2. **Emphasize Relevant Experience**](#2-emphasize-relevant-experience)
+    - [3. **Focus on Technical Skills**](#3-focus-on-technical-skills)
+    - [4. **Demonstrate Leadership**](#4-demonstrate-leadership)
+    - [5. **Prepare for Scenario-based Questions**](#5-prepare-for-scenario-based-questions)
+    - [6. **Brush Up on Agile and DevOps Methodologies**](#6-brush-up-on-agile-and-devops-methodologies)
 
 ## How to install Informatica MDM SaaS?
 
@@ -1612,3 +1619,5 @@ Suppose you want to integrate customer data from an on-premises SQL Server datab
 ### Conclusion
 
 Using **Informatica Cloud Integration** allows you to seamlessly integrate data from external or legacy applications into your MDM system or other target applications. By following these steps, you can establish reliable data flows that support your business processes and enhance data accuracy and consistency.
+
+
