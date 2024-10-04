@@ -1,5 +1,10 @@
 # MyInformatica
 
+- [My Informatica projects](#my-informatica-projects)
+- [My Informatica certifcates](#my-informatica-certifcates)
+- [Informatica Intelligent Cloud Services (IICS)](#informatica-intelligent-cloud-services-iics)
+- [Informatica MDM](#informatica-mdm)
+
 ## My Informatica projects
 
 - Implemented ETL solution with Informatica PowerCenter to migrate data from an old application on MS SQL Server to a new pharmacy application on DB2
@@ -24,10 +29,14 @@
 
   - Built and deployed a Java application on WebSphere Application Server with Spring Data JPA to analyze the MDM log files and present the match and merge reports to the data stewards to review the data conflicts and manually merge them.
   - Integrated data from 8 legacy applications with Informatica PowerCenter ETL.
-  - Improved data quality with IBM DataStage and QualityStage.
-  - Created golden data and managed reference data with IBM InfoSphere MDM.
+  <!-- - Improved data quality with IBM DataStage and QualityStage. -->
+  - Improved data quality with IDQ.
+    <!-- - Created golden data and managed reference data with IBM InfoSphere MDM. -->
+  - Created golden data and managed reference data with Informatica MDM.
+  - Load to Salesforce Financial Services cloud. <!-- CRM -->
+  - Automated the end to end process with CA AutoSys.
   - Led the change requests with detailed runbook.
-  - Used Dynamics 365 Custom WebAPI with Visual Studio to created REST web services for web and mobile apps; generated the client files with Swagger Editor.
+  <!-- - Used Dynamics 365 Custom WebAPI with Visual Studio to created REST web services for web and mobile apps; generated the client files with Swagger Editor. -->
 
 - Data Business: Big Data, ETL, ELT, Data Modeling, Data Integration, Data Migration, Data Analytics; NoSQL, MongoDB; Oracle, DB2, MS SQL, PostgreSQL, MySQL; PL/SQL, TSQL
 
@@ -39,3 +48,5 @@
 ## Informatica Intelligent Cloud Services (IICS)
 
 [IICS](IICS.md)
+
+## Informatica MDM

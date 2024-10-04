@@ -52,5 +52,3 @@ Informatica Intelligent Cloud Services (IICS) is a cloud-based data integration 
 
 13. **Stay Updated:**
     - The field of data integration and management is constantly evolving. Stay updated with the latest developments and features in Informatica IICS to ensure you are making the most of the platform.
-
-Remember that becoming proficient with Informatica IICS may take time and practice, but it's a powerful tool for managing and integrating data in various business scenarios.
